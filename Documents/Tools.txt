@@ -1,0 +1,16 @@
+Assets:
+http://unityassetcollection.com/rpg-medieval-kingdom-kit-free-download/
+http://unityassetcollection.com/ultimate-poly-fantasy-free-download/
+http://unityassetcollection.com/polygon-western-frontier-pack-free-download/
+http://unityassetcollection.com/tropical-environment-pack-2-free-download/
+http://unityassetcollection.com/lowpoly-township-set-free-download/
+http://unityassetcollection.com/animal-pack-deluxe-free-download/
+https://assetstore.unity.com/packages/3d/characters/animals/lowpoly-animals-107755
+https://assetstore.unity.com/packages/3d/characters/animals/low-poly-animated-animals-93089
+
+Tools:
++ terrain.party
++ mixamo.com
++ terrain tools: 
+	link: https://assetstore.unity.com/packages/2d/textures-materials/terrain-tools-sample-asset-pack-145808
+	guide: https://www.youtube.com/watch?v=aExdxF4OKBo
